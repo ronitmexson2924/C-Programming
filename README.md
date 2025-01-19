@@ -23,18 +23,8 @@ This repository serves as my personal learning journal, where I:
     Track my progress as I dive deeper into the C programming world.
 
 Feel free to explore the code, and let me know your thoughts or suggestions for improvement! 💡
-💻 How to Use
-
-    Clone the repository:
-
-git clone https://github.com/your-username/c-programming-2024.git
-cd c-programming-2024
 
 Explore code examples and projects.
-Run programs using your favorite C compiler:
-
-    gcc filename.c -o filename
-    ./filename
 
 🌟 My Learning Goals
 
